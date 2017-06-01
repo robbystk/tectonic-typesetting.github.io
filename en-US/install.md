@@ -20,6 +20,10 @@ but are not sure what the community needs. Please express your preferences at
 <a href="https://github.com/tectonic-typesetting/tectonic/issues/4">GitHub
 issue #4</a>.</p>
 
+Other than using Anaconda, there are other methods of installation
+that are not officially supported, and may or may not work in the future.
+These methods are included below for the sake of completeness,
+but should not be relied upon.
 
 ## Using Anaconda (Recommended)
 ### If you already have Anaconda Python installed:
