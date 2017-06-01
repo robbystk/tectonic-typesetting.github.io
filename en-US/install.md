@@ -21,7 +21,8 @@ but are not sure what the community needs. Please express your preferences at
 issue #4</a>.</p>
 
 
-## If you already have Anaconda Python installed:
+## Using Anaconda (Recommended)
+### If you already have Anaconda Python installed:
 
 The support libraries that we use are only provided through
 [conda-forge](http://conda-forge.github.io/), a community-led project that
@@ -49,7 +50,7 @@ tectonic --help # test that the program works
 ```
 
 
-## If you need to install both Tectonic and Anaconda Python:
+### If you need to install both Tectonic and Anaconda Python:
 
 We recommend that you use Continuum’s “Miniconda” installer to get set up
 quickly. First, install Miniconda
@@ -59,3 +60,9 @@ Once Miniconda is installed you may need to open a new terminal in order for
 its changes to take effect. If all went well, the command `conda` will now be
 available in your terminal. Proceed using the instructions given in the
 previous section.
+
+## Using The AUR on Arch Linux
+
+## Using Cargo
+
+## Using the Linux Subsystem on Windows
