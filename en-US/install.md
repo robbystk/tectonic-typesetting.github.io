@@ -63,6 +63,11 @@ previous section.
 
 ## Using The AUR on Arch Linux
 
+Follow [the instructions on the Arch Wiki](https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages)
+to download and install the package.
+The package is located at [https://aur.archlinux.org/packages/tectonic/](https://aur.archlinux.org/packages/tectonic/),
+and the git clone URL is [https://aur.archlinux.org/tectonic.git](https://aur.archlinux.org/tectonic.git)
+
 ## Using Cargo
 
 Install [cargo](http://doc.crates.io/), the Rust package manager,
