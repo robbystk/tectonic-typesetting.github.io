@@ -65,4 +65,12 @@ previous section.
 
 ## Using Cargo
 
+Install [cargo](http://doc.crates.io/), the Rust package manager,
+using your system's package installer.
+Then run
+```
+cargo install tectonic
+```
+to install tectonic and all of its dependencies
+
 ## Using the Linux Subsystem on Windows
